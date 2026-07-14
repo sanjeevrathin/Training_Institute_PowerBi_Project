@@ -114,7 +114,7 @@ Some of the measures created in this project include:
 
 > Add your dashboard screenshot to the **Screenshots** folder.
 
-![Dashboard](Screenshots/Dashboard.png)
+![Dashboard](https://github.com/sanjeevrathin/Training_Institute_PowerBi_Project/tree/main/Data_Visualization/Dashboard_Image)
 
 ---
 
