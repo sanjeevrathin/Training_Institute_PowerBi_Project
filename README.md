@@ -68,7 +68,7 @@ The model follows a clean relational structure to improve dashboard performance 
 
 ### Data Model Preview
 
-![Data Model](02_Data_Modeling/Data_Model.png)
+![Data Model](sanjeevrathin/Training_Institute_PowerBi_Project/blob/main/Data_Modeling/Screenshot%202026-07-14%20091904.png)
 
 ---
 
