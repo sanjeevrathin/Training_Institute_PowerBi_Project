@@ -155,6 +155,7 @@ This dashboard helps stakeholders to:
 ### Connect with Me
 
 - LinkedIn: *(https://www.linkedin.com/in/sanjeev-rathin/)*
+- GitHub:*(https://github.com/sanjeevrathin)*
 - Email: *(sanjeevrathinr@gmail.com)*
 
 ---
